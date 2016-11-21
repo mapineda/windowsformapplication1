@@ -1,0 +1,11 @@
+E:\work\personal\c#1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\work\personal\c#1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\work\personal\c#1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\work\personal\c#1\WindowsFormsApplication1\bin\Debug\Engine.dll
+E:\work\personal\c#1\WindowsFormsApplication1\bin\Debug\Engine.pdb
+E:\work\personal\c#1\WindowsFormsApplication1\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+E:\work\personal\c#1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\work\personal\c#1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SuperAdventure.resources
+E:\work\personal\c#1\WindowsFormsApplication1\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+E:\work\personal\c#1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\work\personal\c#1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
